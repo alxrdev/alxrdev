@@ -9,7 +9,6 @@ Claro, gosto de animes, mas também adoro programar 😄.
 
 Já que está aqui, que tal dar uma olhada nos meus repositórios?
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alxrdev&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
