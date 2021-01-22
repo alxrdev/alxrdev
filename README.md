@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Rodrigues%20Moreira-085ff7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrdev/)](https://www.linkedin.com/in/alxrdev/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodriguesalex793@gmail.com-085ff7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesalex793@gmail.com)](mailto:rodriguesalex793@gmail.com)
 
-Olá, seja bem-vindo ao meu github, meu nome é Alex Rodrigues Moreira, sou um desenvolvedor fullstack formado em Análise e Desenvolvimento de Sistemas.
+Olá, seja bem-vindo ao meu Github, meu nome é Alex Rodrigues Moreira, sou um desenvolvedor full stack formado em Análise e Desenvolvimento de Sistemas.
 
 Claro, gosto de animes, mas também adoro programar 😄.
 
