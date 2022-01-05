@@ -5,8 +5,6 @@
 
 Olá, seja bem-vindo ao meu Github, meu nome é Alex Rodrigues Moreira, sou um desenvolvedor full stack formado em Análise e Desenvolvimento de Sistemas.
 
-Claro, gosto de animes, mas também adoro programar 😄.
-
 Já que está aqui, que tal dar uma olhada nos meus repositórios?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
