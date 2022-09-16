@@ -18,8 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div> --!>
+</div> -->
 
 Olá, meu nome é Alex Rodrigues Moreira, sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência em desenvolvedor de software full stack com NodeJS, TypeScript, ReactJS, PHP, MySQL e MongoDB.
 
-Já que está aqui, que tal dar uma olhada nos meus repositórios?
+Já que está aqui, sinta-se livre para dar uma olhada nos meus repositórios.
