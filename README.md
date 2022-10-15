@@ -20,6 +20,6 @@
 
 </div> -->
 
-Olá, meu nome é Alex Rodrigues Moreira, sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência em desenvolvedor de software full stack com NodeJS, TypeScript, ReactJS, PHP, MySQL e MongoDB.
+Olá, meu nome é Alex Rodrigues Moreira, sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência como desenvolvedor de software full stack com NodeJS, TypeScript, ReactJS, PHP, MySQL e MongoDB.
 
 Já que está aqui, sinta-se livre para dar uma olhada nos meus repositórios.
